@@ -405,8 +405,6 @@ Targeted messaging supports multiple delivery channels:
 
 The Decentralized CRM represents a **flagship application** for the Sui ecosystem, demonstrating the power of combining Sui, Seal, Walrus, SuiNS, and ZkLogin into a cohesive, privacy-preserving platform. This project addresses a genuine market need—Web3 teams currently have no native solution for managing community relationships with the data sovereignty and composability they expect.
 
-At an estimated **$261K-301K** and **16-22 weeks**, this is a significant undertaking comparable to our Infrastructure Marketplace proposal. The investment is justified by the complexity of multi-protocol integration and the importance of getting encryption and access control right.
-
 ---
 
 <p align="center">
