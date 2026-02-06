@@ -1,4 +1,4 @@
-# Decentralized CRM for Web3 (Project DBO)
+# Decentralized CRM for Web3
 
 ## Long-Term Sustainability & Maintenance Plan
 
