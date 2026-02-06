@@ -1,4 +1,4 @@
-# Decentralized Event Registration & Ticketing Platform
+# Decentralized Event Registration & Ticketing Platform (DBO Project)
 
 **NFT Tickets • Encrypted Access • Proof of Attendance**
 
