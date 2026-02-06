@@ -1,4 +1,4 @@
-# Decentralized Event Registration & Ticketing Platform
+# Decentralized Event Registration & Ticketing Platform (Project DBO)
 
 ## Long-Term Sustainability & Maintenance Plan
 
