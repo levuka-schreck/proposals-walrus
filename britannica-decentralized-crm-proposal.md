@@ -1,4 +1,4 @@
-# Decentralized CRM for Web3
+# Decentralized CRM for Web3 (Britannica Project)
 
 **Privacy-Preserving Customer Relationship Management**
 
