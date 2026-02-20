@@ -1039,7 +1039,7 @@ Project Wube with Seal encryption delivers **production-ready encrypted video in
 
 | Metric | Value |
 |--------|-------|
-| **Budget** | $197K **covers infra as well** (target: <$200K) |
+| **Budget** | $197K **covers infra as well** (target: <$200K, 3rd party audit costs are separate) |
 | **Timeline** | 16 weeks |
 | **Team** | 6-8 FTE (depending on need) |
 | **Deliverable** | Encrypted video infrastructure with policy-based access |
