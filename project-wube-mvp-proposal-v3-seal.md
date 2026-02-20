@@ -1044,14 +1044,6 @@ Project Wube with Seal encryption delivers **production-ready encrypted video in
 | **Team** | 6-8 FTE (depending on need) |
 | **Deliverable** | Encrypted video infrastructure with policy-based access |
 
-### Adjacent MVP Steps
-
-1. **Seal integration spike:** Validate encryption/decryption flow
-2. **Policy design review:** Confirm access policy types meet market needs
-3. **Walrus + Seal interop:** Test encrypted blob storage patterns
-4. **Security architecture review:** External review of encryption design
-5. **Identify beta partners:** 3-5 projects needing encrypted video
-
 ---
 
 <p align="center">
