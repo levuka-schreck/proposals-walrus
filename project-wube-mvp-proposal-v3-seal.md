@@ -558,7 +558,7 @@ Adding Seal encryption increases the team requirements:
 | **DevOps** | 1 FTE | Deployment; monitoring; CI/CD; caching infrastructure |
 | **Product/QA** | 1 FTE | Requirements validation; security testing; documentation review |
 
-**Total: 6 FTE** over the project lifecycle.
+**Total: 7 FTE** over the project lifecycle.
 
 
 ## 4. Planned Deliverables
